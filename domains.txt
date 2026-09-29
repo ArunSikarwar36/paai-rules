@@ -1,0 +1,3 @@
+# PAAI rules: ad and tracker domains found after release.
+# Blocked system-wide by PAAI AdBlocker (Windows and Android) on top of the public lists.
+# One domain per line; subdomains are blocked too. Lines starting with # are comments.
