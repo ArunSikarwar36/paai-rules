@@ -4,6 +4,9 @@
     "^https://([^/]*\\.)?spotify\\.com/ads/"
   ],
   "silenceAudioUrls": [],
+  "silenceMediaUrls": [
+    "^https://adstudio-assets\\.scdn\\.co/[^?]*\\.mp3(\\?|$)"
+  ],
   "youtube": {
     "adKeys": [],
     "hideSelectors": []

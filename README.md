@@ -43,6 +43,9 @@ delivers the content (videos, songs, images) breaks the app when blocked.
   when the ad server also delivers content, so only the ad path can be blocked.
 - **silenceAudioUrls**: regular expressions for audio ads that have to play to
   the end (Amazon Music). PAAI Browser answers them with a short silent MP3.
+- **silenceMediaUrls**: like silenceAudioUrls, but answered with a real
+  1-second silent media file, for players that stall on the short MP3
+  (Spotify's phone site). Android app 0.3.0 and later.
 - **youtube.adKeys**: property names removed from YouTube's player data
   (letters, digits and `_` only).
 - **youtube.hideSelectors**: CSS selectors of YouTube page elements to hide.
