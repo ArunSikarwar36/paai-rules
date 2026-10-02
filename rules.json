@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "blockUrls": [],
+  "blockUrls": [
+    "^https://([^/]*\\.)?spotify\\.com/ads/"
+  ],
   "silenceAudioUrls": [],
   "youtube": {
     "adKeys": [],
