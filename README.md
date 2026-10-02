@@ -3,7 +3,7 @@
 Ad-blocking rules that PAAI AdBlocker and PAAI Browser download by themselves,
 so a new ad fix reaches every install without reinstalling the apps.
 
-**Android app:** download the latest APK from
+**Download the apps** (Windows installer, Android app, Android browser) from
 [Releases](https://github.com/ArunSikarwar36/paai-rules/releases/latest).
 
 The files are **data only**. The apps check their format when they load them,
